@@ -1,0 +1,5 @@
+C:\Users\Rep\Downloads\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\obj\Debug\DZ1_Kalkulator_Template.csprojResolveAssemblyReference.cache
+C:\Users\Rep\Downloads\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\bin\Debug\PrvaDomacaZadaca_Kalkulator_Students.dll
+C:\Users\Rep\Downloads\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\bin\Debug\PrvaDomacaZadaca_Kalkulator_Students.pdb
+C:\Users\Rep\Downloads\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\obj\Debug\PrvaDomacaZadaca_Kalkulator_Students.dll
+C:\Users\Rep\Downloads\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\obj\Debug\PrvaDomacaZadaca_Kalkulator_Students.pdb
